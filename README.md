@@ -1,1 +1,3 @@
-# Deep_Q_Network_Reinforcement_Learning
+# Project in Reinforcement Learning
+## Course : Statistical Sequence Processing
+## Case Study: Deep Q Network
